@@ -50,6 +50,7 @@ Once you have the servers running, you can harness the power of artificial intel
 - **Image Analysis**: Upload images and receive insights.
 - **Text Generation**: Create custom written content based on prompts.
 - **Voice Recognition**: Convert spoken words into text efficiently.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## ⚙️ Configuration
 
